@@ -44,14 +44,15 @@ Plugin Ack
 4. yedi
 
 ### 1. Python-mode
-[[ - przejście do poczatku funcji/metody
-[[ - przejście do następnej funkcji/metody
-vaM - zaznacza całą funkcję/metodę
-viM - zaznacza całą zawartość funkcji/metody
-vaC - zaznacza calą klasę
-daC - kasuje cała klasę
-ciM - kasuje cały środek funkcji
-a dokłdniejszy opis Poruszania się po Pythonie:
+- [[ - przejście do poczatku funcji/metody
+- [[ - przejście do następnej funkcji/metody
+- vaM - zaznacza całą funkcję/metodę
+- viM - zaznacza całą zawartość funkcji/metody
+- vaC - zaznacza calą klasę
+- daC - kasuje cała klasę
+- ciM - kasuje cały środek funkcji
+
+Take a look, what particular letters in these commands means:
 
 `C` — means class
 `M` — means method or function
